@@ -90,3 +90,7 @@ main {
 .form-input, .form-btn{
   min-height: 40px;
 }
+
+.meme-img{
+  max-width: 480px;
+}
